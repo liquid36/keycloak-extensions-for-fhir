@@ -1,2 +1,3 @@
+org.alvearie.keycloak.QueryToSessionNoteFactory
 org.alvearie.keycloak.AudienceValidatorFactory
 org.alvearie.keycloak.PatientSelectionFormFactory
